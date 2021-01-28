@@ -21,7 +21,7 @@
     "@types/react-redux": "^7.1.4",
     "cross-env": "^6.0.3",
     "devtron": "^1.4.0",
-    "electron": "^6.0.11",
+    "electron": "^9.4.0",
     "electron-builder": "^21.2.0",
     "electron-devtools-installer": "^2.2.4",
     "eslint": "^6.5.1",
